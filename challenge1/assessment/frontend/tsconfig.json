@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "lib": ["es6", "dom"],
+    "jsx": "preserve",
+    "module": "commonjs",
+    "baseUrl": "./src",
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true
+  },
+  "exclude": ["node_modules"]
+}
